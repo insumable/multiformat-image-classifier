@@ -2,6 +2,22 @@
 
 A Computer Vision project that uses a Convolutional Neural Network (CNN) built with PyTorch to classify images into multiple visual content categories. The model is trained on a curated dataset containing paintings, photographs, sketches, and digital artwork.
 
+Input          : 3 x 128 x 128
+
+Conv32         : 32 x 128 x 128
+MaxPool        : 32 x 64 x 64
+
+Conv64         : 64 x 64 x 64
+MaxPool        : 64 x 32 x 32
+
+Conv128        : 128 x 32 x 32
+MaxPool        : 128 x 16 x 16
+
+Flatten        : 32768
+
+Dense128       : 128
+Output         : 5
+
 ## Features
 
 - Image preprocessing and augmentation
