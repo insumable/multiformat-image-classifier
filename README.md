@@ -11,7 +11,6 @@ A Computer Vision project that uses a Convolutional Neural Network (CNN) built w
 - Performance evaluation
 - Prediction on custom images
 
-## Tech Stack
 
 - Python
 - PyTorch
