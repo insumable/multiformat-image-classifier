@@ -4,6 +4,10 @@ A convolutional neural network that classifies images into five visual categorie
 
 **Result: 95.05% test accuracy** on 2,932 held-out images.
 
+## Link
+
+link : https://www.kaggle.com/code/sohampatra2/image-classification
+
 ## Overview
 
 This notebook covers the full pipeline for a 5-class image classifier:
