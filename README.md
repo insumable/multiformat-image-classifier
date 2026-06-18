@@ -83,7 +83,6 @@ Training loss fell steadily from **0.461** (epoch 1) to **0.041** (epoch 20).
 | Macro avg | 0.84 | 0.80 | 0.81 | 2,932 |
 | Weighted avg | 0.95 | 0.95 | 0.95 | 2,932 |
 
-![Confusion Matrix](assets/confusion_matrix.png)
 
 ## Key Findings
 
